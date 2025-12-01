@@ -16,6 +16,7 @@
 </picture>
 
 <picture>
+  <img alt="github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shiwuliya&theme=react">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shiwuliya/shiwuliya/dist/snk/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shiwuliya/shiwuliya/dist/snk/snake-light.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shiwuliya/shiwuliya/dist/snk/snake-light.svg">
